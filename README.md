@@ -1,7 +1,7 @@
 # METODOS-NUMERICOS 
 
 
-## 🎥 Video Explicativo
+## 🎥 Video Explicativo 
 
 Puedes ver la explicación detallada del desarrollo y los resultados en el siguiente enlace:
 
