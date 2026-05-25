@@ -5,7 +5,7 @@
 
 Puedes ver la explicación detallada del desarrollo y los resultados en el siguiente enlace:
 
-👉 [https://drive.google.com/drive/folders/161OuathCkbwlIq6Tg1ci85pTZkMtHEBb?usp=drive_link]
+👉 [https://drive.google.com/drive/folders/1MzJK8nAdscPwp8vzQWZskNkEUHhiCE_E?usp=sharing]
 
 LA CARPETA DE " codigo y imagenes " corresponde la tarea 1 y la carpeta " EXAMEN PARCIAL " es de la tarea que se dejo hoy lunes 24/05/2026
 
